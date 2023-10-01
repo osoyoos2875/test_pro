@@ -1,0 +1,4 @@
+*.pyc
+debug.log
+db.sqlite3
+.vscode/
